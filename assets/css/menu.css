@@ -11,7 +11,7 @@ body{
 
 .navbar{
     background-color: darkcyan;
-    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.5);
     position: sticky;
     top: 0;
     z-index: index 1000;
